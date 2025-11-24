@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auto Voice Recorder</string>
+    <string name="app_description">Auto-start voice recorder: schedule daily automatic start, recordings rotate each day, customizable storage folder.</string>
+</resources>
